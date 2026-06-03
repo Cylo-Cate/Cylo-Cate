@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Felipe%20Gustavo&fontSize=50&fontColor=f0abfc&fontAlignY=55&animation=glitch&desc=Developer%20%7C%20Security%20%7C%20AI%20&descSize=16&descAlignY=75&descColor=e879f9&stroke=c026d3&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19&height=180&section=header&text=Felipe%20Gustavo%20R.%20C.&fontSize=40&fontColor=d8b4fe&fontAlignY=60&animation=fadeIn&desc=Developer%20%7C%20Security%20%7C%20AI%20Enthusiast&descSize=16&descAlignY=78&descColor=818cf8" width="100%"/>
 </div>
 
 <br/>
@@ -165,5 +165,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=100&section=footer&reversal=true" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19&height=100&section=footer&reversal=true" width="100%"/>
 </div>
