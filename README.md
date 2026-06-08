@@ -107,27 +107,6 @@
 
 ---
 
-### ◈ LEARNING.EXE
-
-<div align="center">
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-  ◈  C++           ▩▩▩.......  aprofundando performance
-  ◈  Kotlin        ▩▩▩▩▩▩....  mobile & Android dev
-  ◈  Linux         ▩▩▩....... sysadmin & shell scripting
-  ◈  Machine Learn ▩▩▩▩▩▩.... modelos, dados, algoritmos
-  ◈  AI Engineering  ▩▩▩.......  prompts e integração 
-  ◈  Cybersecurity ▩▩▩.......  ethical hacking & defesa
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
-</div>
-
-<br/>
-
----
-
 ### ◈ STATS.LOG
 
 <div align="center">
