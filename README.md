@@ -1,20 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0040,30:3b0764,60:4c0a8a,100:1e0a5e&height=200&section=header&text=Felipe%20Gustavo%20R.%20C.&fontSize=38&fontColor=7df9ff&fontAlignY=55&animation=fadeIn&desc=Backend%20Engineer%20%2F%2F%20Security&descSize=15&descAlignY=75&descColor=c4b5fd" width="100%"/
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0040,30:3b0764,60:4c0a8a,100:1e0a5e&height=200&section=header&text=Felipe%20Gustavo%20R.%20C.&fontSize=38&fontColor=7df9ff&fontAlignY=55&animation=fadeIn&desc=Backend%20Engineer%20%2F%2F%20Security%20%2F%2F%20Mobile%20Dev&descSize=15&descAlignY=75&descColor=c4b5fd" width="100%"/>
 </div>
-
-<br/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=1000&color=C084FC&center=true&vCenter=true&width=640&lines=%5BSYS%5D+Backend+%26+API+engineer+online...;%5BRUN%5D+Python+%7C+Java+%7C+Kotlin+%7C+C%2B%2B+%7C+JS;%5BLOAD%5D+Machine+Learning+modules+active...;%5BSEC%5D+Cybersecurity+protocols+engaged;%5BSTATUS%5D+Open+to+junior+%2F+mid+roles+in+TI" />
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=4c0a8a&height=3&width=100%" width="100%"/>
+</div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-2e0057?style=for-the-badge&logo=linkedin&logoColor=7df9ff&labelColor=3b0764)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/MAIL-2e0057?style=for-the-badge&logo=gmail&logoColor=7df9ff&labelColor=3b0764)](mailto:fegustavorc@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-1a0040?style=for-the-badge&logo=linkedin&logoColor=c084fc)](https://linkedin.com)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/GMAIL-1a0040?style=for-the-badge&logo=gmail&logoColor=c084fc)](mailto:fegustavorc@gmail.com)
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=4c0a8a&height=3&width=100%" width="100%"/>
 </div>
 
 <br/>
@@ -23,119 +28,83 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  ▓▓  SYSTEM PROFILE  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
 │   ALIAS    ──►  Felipe Gustavo R. C.                       │
 │   NODE     ──►  Brasil 🇧🇷                                   │
 │   UPTIME   ──►  Since 2023                                  │
 │   CLASS    ──►  Intermediário                               │
 │   STACK    ──►  Python · Java · Kotlin · C++ · JS          │
-│   FOCUS    ──►  Backend · APIs · Security · AI              │
+│   FOCUS    ──►  Backend · APIs · Security · Mobile         │
 │   TARGET   ──►  Vaga júnior / pleno em TI                  │
 │   SIGNAL   ──►  fegustavorc@gmail.com                      │
-│                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 <div align="center">
-  <i>Engenheiro de backend focado em APIs robustas, segurança digital e soluções com inteligência artificial.<br/>Construindo sistemas com Java, Kotlin, Python — sempre em evolução.</i>
+  <i>Desenvolvedor backend focado em APIs robustas, segurança digital e desenvolvimento mobile.<br/>Construindo soluções com Java, Kotlin, Python e Firebase — sempre em evolução.</i>
 </div>
 
 <br/>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=4c0a8a&height=3&width=100%" width="100%"/>
+</div>
 
-## `// TECH_STACK`
+## ◈ TECH_STACK
 
 <table align="center">
   <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44"/><br/>
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="44"/><br/>
-      <sub><b>Java</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="44"/><br/>
-      <sub><b>Kotlin</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44"/><br/>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="44"/><br/>
-      <sub><b>C++</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44"/><br/>
-      <sub><b>HTML5</b></sub>
-    </td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/></td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/></td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48"/></td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/></td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48"/></td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/></td>
   </tr>
   <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="44"/><br/>
-      <sub><b>CSS3</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="44"/><br/>
-      <sub><b>Firebase</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="44"/><br/>
-      <sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="44"/><br/>
-      <sub><b>Linux</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="44"/><br/>
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="44"/><br/>
-      <sub><b>VS Code</b></sub>
-    </td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/></td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48"/></td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/></td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"/></td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/></td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48"/></td>
   </tr>
 </table>
 
-<br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=4c0a8a&height=3&width=100%" width="100%"/>
+</div>
 
----
-
-## `// METRICS`
+## ◈ METRICS
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Cylo-Cate&theme=tokyonight&hide_border=true&background=1a0040&ring=c084fc&fire=7df9ff&currStreakLabel=c084fc&sideLabels=a78bfa&dates=7c3aed&stroke=c084fc" height="155"/>
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=4c0a8a&height=3&width=100%" width="100%"/>
+</div>
 
----
-
-## `// CURRENT_PROCESSES`
+## ◈ CURRENT_PROCESSES
 
 <div align="center">
 
 | Processo | Status | Tecnologia |
 |:---:|:---:|:---:|
-| Backend & REST APIs | 🔵 ATIVO | Java · Python · Node |
-| Mobile Development | 🔵 ATIVO | Kotlin · Firebase |
-| Cybersecurity Studies | 🟣 LOADING | Linux · Redes · CTF |
-| Machine Learning | 🟣 LOADING | Python · Scikit · TF |
+| Backend & REST APIs | 🟣 ATIVO | Java · Python · Node |
+| Mobile Development | 🟣 ATIVO | Kotlin · Firebase |
+| Cybersecurity Studies | 🔵 LOADING | Linux · Redes · CTF |
+| Machine Learning | 🔵 LOADING | Python · Scikit · TF |
 | Open to Opportunities | 🟢 ONLINE | Júnior / Pleno TI |
 
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=4c0a8a&height=3&width=100%" width="100%"/>
+</div>
 
----
+## ◈ VISITORS
 
 <div align="center">
   <img src="https://count.getloli.com/@:Cylo-Cate?theme=rule34&padding=5&scale=1.3&align=top&pixelated=1&darkmode=1"/>
@@ -144,7 +113,7 @@
 <br/>
 
 <div align="center">
-  <sub><code>// SYSTEMS ONLINE — READY TO DEPLOY //</code></sub>
+  <sub><code>◈ Do código à inovação. ◈</code></sub>
 </div>
 
 <br/>
