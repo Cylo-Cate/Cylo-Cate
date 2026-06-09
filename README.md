@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0040,30:3b0764,60:4c0a8a,100:1e0a5e&height=200&section=header&text=Felipe%20Gustavo%20R.%20C.&fontSize=38&fontColor=7df9ff&fontAlignY=55&animation=fadeIn&desc=Backend%20Engineer%20%2F%2F%20Security%20%2F%2F%20AI%20Builder&descSize=15&descAlignY=75&descColor=c4b5fd" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0040,30:3b0764,60:4c0a8a,100:1e0a5e&height=200&section=header&text=Felipe%20Gustavo%20R.%20C.&fontSize=38&fontColor=7df9ff&fontAlignY=55&animation=fadeIn&desc=Backend%20Engineer%20%2F%2F%20Security&descSize=15&descAlignY=75&descColor=c4b5fd" width="100%"/
 </div>
 
 <br/>
@@ -13,7 +13,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-2e0057?style=for-the-badge&logo=linkedin&logoColor=7df9ff&labelColor=3b0764)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-2e0057?style=for-the-badge&logo=github&logoColor=c4b5fd&labelColor=3b0764)](https://github.com/Cylo-Cate)
 [![Gmail](https://img.shields.io/badge/MAIL-2e0057?style=for-the-badge&logo=gmail&logoColor=7df9ff&labelColor=3b0764)](mailto:fegustavorc@gmail.com)
 
 </div>
@@ -42,7 +41,7 @@
 </div>
 
 <div align="center">
-  <i>Engenheiro de backend focado em APIs robustas, segurança digital e soluções com inteligência artificial.<br/>Construindo sistemas com Java, Kotlin, Python e Firebase — sempre em evolução.</i>
+  <i>Engenheiro de backend focado em APIs robustas, segurança digital e soluções com inteligência artificial.<br/>Construindo sistemas com Java, Kotlin, Python — sempre em evolução.</i>
 </div>
 
 <br/>
