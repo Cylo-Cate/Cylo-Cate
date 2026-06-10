@@ -24,22 +24,18 @@
 
 <br/>
 
-<div align="center">
-
+```python
+dev = {
+  "name":     "Felipe Gustavo R. C.",
+  "location": "Brasil 🇧🇷",
+  "since":    2023,
+  "level":    "Intermediário",
+  "stack":    ["Python", "Java", "Kotlin", "C++", "JavaScript"],
+  "focus":    ["Backend", "APIs", "Security", "Mobile"],
+  "target":   "Vaga júnior / pleno em TI",
+  "signal":   "fegustavorc@gmail.com"
+}
 ```
-┌─────────────────────────────────────────────────────────────┐
-│   ALIAS    ──►  Felipe Gustavo R. C.                       │
-│   NODE     ──►  Brasil 🇧🇷                                   │
-│   UPTIME   ──►  Since 2023                                  │
-│   CLASS    ──►  Intermediário                               │
-│   STACK    ──►  Python · Java · Kotlin · C++ · JS          │
-│   FOCUS    ──►  Backend · APIs · Security · Mobile         │
-│   TARGET   ──►  Vaga júnior / pleno em TI                  │
-│   SIGNAL   ──►  fegustavorc@gmail.com                      │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</div>
 
 <div align="center">
   <i>Desenvolvedor backend focado em APIs robustas, segurança digital e desenvolvimento mobile.<br/>Construindo soluções com Java, Kotlin, Python e Firebase — sempre em evolução.</i>
