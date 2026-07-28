@@ -72,16 +72,6 @@ dev = {
   <img src="https://capsule-render.vercel.app/api?type=rect&color=4c0a8a&height=3&width=100%" width="100%"/>
 </div>
 
-## ◈ METRICS
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Cylo-Cate&theme=tokyonight&hide_border=true&background=1a0040&ring=c084fc&fire=7df9ff&currStreakLabel=c084fc&sideLabels=a78bfa&dates=7c3aed&stroke=c084fc" height="155"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=4c0a8a&height=3&width=100%" width="100%"/>
-</div>
-
 ## ◈ CURRENT_PROCESSES
 
 <div align="center">
